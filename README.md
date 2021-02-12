@@ -1,4 +1,4 @@
-# TelescopeTrackingDrive
+# Telescope Tracking Drive
 Replace Celestron G4 dual axis telescope drive controller.
  Mark I Stepper Motor Control - for Celstron G4 dual axis drive
  replacing original 93522 dual axis motor drive.
